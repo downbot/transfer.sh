@@ -55,7 +55,7 @@ import (
 
 	"net"
 
-	web "github.com/dutchcoders/transfer.sh-web"
+	web "github.com/downbot/transfer.sh-web"
 	"github.com/gorilla/mux"
 	"github.com/russross/blackfriday"
 
